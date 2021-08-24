@@ -1,8 +1,10 @@
-# qr_scanner
+# QRCode Scanner Flutter
 
-A new Flutter project.
+### App Functionality :
 
-## Getting Started
+- [x] Generate QR code from text
+- [x] Share QR Code
+- [x] Scan QR Code using camera and get text result
 
 This project is a starting point for a Flutter application.
 
